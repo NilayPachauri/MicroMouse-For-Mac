@@ -464,6 +464,20 @@ bool microMouseServer::moveForward()
 
 void microMouseServer::studentAI()
 {
-
+    /*
+     * Code here:
+     *
+     * You can use 8 functions:
+     *
+     * moveForward() - moves the mouse forward one square
+     * turnLeft() - moves the mouse 90 degrees left
+     * turnRight() - moves the mouse 90 degrees right
+     * isWallLeft() - checks to see if there is a wall to the left of the mouse
+     * isWallForward() - checks to see if there is a wall to the top of the mouse
+     * isWallRight() - checks to see if there is a wall to the right of the mouse
+     * foundFinish() - stops the mouse and prints the exit has been found
+     * printUI(String) - print a message to the status screen
+     *
+     */
 
 }
